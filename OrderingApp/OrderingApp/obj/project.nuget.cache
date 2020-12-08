@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AG5qq/UQhS+bwoLiiYCkyuaS5XxHtwINhOEuEuXx7TnHDv0Y/eRtk8UBI2MOu2W59S2CS71sKCFwzDNInqzXZg==",
+  "success": true,
+  "projectFilePath": "C:\\OrderingApp\\OrderingApp\\OrderingApp\\OrderingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AldoStevens\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AldoStevens\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\AldoStevens\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
